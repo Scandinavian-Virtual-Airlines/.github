@@ -1,5 +1,5 @@
-![SASva Logo - Darkmode](./static/logo_dark.svg#gh-dark-mode-only)
-![SASva Logo - Lightmode](./static/logo_light.svg#gh-light-mode-only)
+![SASva Logo - Darkmode](../static/logo_dark.svg#gh-dark-mode-only)
+![SASva Logo - Lightmode](../static/logo_light.svg#gh-light-mode-only)
 #  
 > [!NOTE]
 > SASVa is ___not___ affiliated with, endorsed, or sponsored by Scandinavian Airlines.  
