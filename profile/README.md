@@ -3,7 +3,7 @@
 #  
 > [!NOTE]
 > SASVa is ___not___ affiliated with, endorsed, or sponsored by Scandinavian Airlines.  
-> It is a community virtual airline community.
+> It is a virtual airline community.
 
 # SASva Virtual Airline
 
